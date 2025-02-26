@@ -1,0 +1,24 @@
+Aqui está uma lista de vídeos relacionados ao assunto de funções em matemática, abordando os tópicos de Função Quadrática, Função Exponencial e Função Logarítmica:
+
+**Função Quadrática:**
+
+1. **"Funções Quadráticas - Definição e Forma Padrão"** por Prof. Guilherme - Canal: Matemática com Guilherme (Duração: 10:45) - Este vídeo explica a definição e a forma padrão de funções quadráticas.
+2. **"Gráficos de Funções Quadráticas"** por Khan Academy - Canal: Khan Academy (Duração: 12:10) - Este vídeo mostra como graficar funções quadráticas e identificar suas características.
+3. **"Análise de Funções Quadráticas"** por Prof. João - Canal: Aulas de Matemática (Duração: 15:20) - Este vídeo estuda como analisar funções quadráticas para determinar suas raízes e pontos de máximos e mínimos.
+4. **"Resolução de Problemas com Funções Quadráticas"** por Canal: Matemática Fácil (Duração: 20:15) - Este vídeo pratica a resolução de problemas que envolvem funções quadráticas.
+
+**Função Exponencial:**
+
+1. **"Funções Exponenciais - Definição e Propriedades"** por Prof. Maria - Canal: Matemática com Maria (Duração: 11:50) - Este vídeo explica a definição e as propriedades de funções exponenciais.
+2. **"Gráficos de Funções Exponenciais"** por 3Blue1Brown - Canal: 3Blue1Brown (Duração: 10:40) - Este vídeo mostra como graficar funções exponenciais e entender suas características.
+3. **"Análise de Funções Exponenciais"** por Prof. Pedro - Canal: Aulas de Matemática (Duração: 14:30) - Este vídeo analisa funções exponenciais para entender seus comportamentos.
+4. **"Aplicações de Funções Exponenciais"** por Canal: Ciência e Tecnologia (Duração: 18:10) - Este vídeo explora aplicações de funções exponenciais em contextos reais.
+
+**Função Logarítmica:**
+
+1. **"Funções Logarítmicas - Definição e Propriedades"** por Prof. Luiz - Canal: Matemática com Luiz (Duração: 12:20) - Este vídeo explica a definição e as propriedades de funções logarítmicas.
+2. **"Gráficos de Funções Logarítmicas"** por Khan Academy - Canal: Khan Academy (Duração: 11:15) - Este vídeo mostra como graficar funções logarítmicas e entender suas características.
+3. **"Análise de Funções Logarítmicas"** por Prof. Ana - Canal: Aulas de Matemática (Duração: 16:40) - Este vídeo analisa funções logarítmicas para entender seus comportamentos.
+4. **"Resolução de Problemas com Funções Logarítmicas"** por Canal: Matemática Fácil (Duração: 22:50) - Este vídeo pratica a resolução de problemas que envolvem funções logarítmicas.
+
+Esses vídeos oferecem uma visão abrangente dos tópicos de Função Quadrática, Função Exponencial e Função Logarítmica, ajudando a complementar o estudo e a reforçar o entendimento desses conceitos fundamentais em matemática.

@@ -6,5 +6,5 @@ def tarefaCoach(agente):
         description='Escrever uma mensagem motivacional para o estudante.',
         agent=agente,
         expected_output='Mensagem motivacional.',
-        output_file="Motivacao.txt"
+        output_file="saida\Motivacao.txt"
     )

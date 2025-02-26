@@ -9,5 +9,5 @@ def tarefaCoordenador(solicitacao, agente):
         description=f'Criar um plano de estudo estruturado com base nas seguintes informações: Disciplina: {disciplina}, Assunto: {assunto}, Tópicos: {topicos}.',
         agent=agente,
         expected_output='Plano de estudos personalizado.',
-        output_file="PlanoDeEstudo.txt"
+        output_file="saida\PlanoDeEstudo.txt"
     )

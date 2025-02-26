@@ -15,23 +15,23 @@ if __name__ == "__main__":
     executar_equipe(solicitacao)  # Passando o dicionário completo, e não apenas a string "Funções"
 
 # Consolidando os resultados
-with open("material_completo.txt", "w", encoding="utf-8") as arquivo_final:
+with open("saida\material_completo.txt", "w", encoding="utf-8") as arquivo_final:
     arquivo_final.write("\n\n=== Plano de Estudos ===\n\n")
-    with open("PlanoDeEstudo.txt", "r", encoding="utf-8") as plano:
+    with open("saida\PlanoDeEstudo.txt", "r", encoding="utf-8") as plano:
         arquivo_final.write(plano.read())
     
     arquivo_final.write("\n\n=== Material de Estudos ===\n\n")
-    with open("VideosYoutube.txt", "r", encoding="utf-8") as material:
+    with open("saida\VideosYoutube.txt", "r", encoding="utf-8") as material:
         arquivo_final.write(material.read())
     
     arquivo_final.write("\n\n=== Dicas Motivacionais ===\n\n")
-    with open("Motivacao.txt", "r", encoding="utf-8") as dicas:
+    with open("saida\Motivacao.txt", "r", encoding="utf-8") as dicas:
         arquivo_final.write(dicas.read())
 
 import markdown
 
 # 1. Ler o arquivo material_completo.txt
-with open("material_completo.txt", "r", encoding="utf-8") as file:
+with open("saida\material_completo.txt", "r", encoding="utf-8") as file:
     markdown_text = file.read()
 
 # 2. Converter Markdown para HTML
@@ -60,7 +60,7 @@ html_with_style = f"""
 """
 
 # 4. Salvar o HTML em um arquivo
-with open("material_completo.html", "w", encoding="utf-8") as html_file:
+with open("saida\material_completo.html", "w", encoding="utf-8") as html_file:
     html_file.write(html_with_style)
 
 print("HTML gerado com sucesso! Verifique o arquivo 'material_completo.html'.")

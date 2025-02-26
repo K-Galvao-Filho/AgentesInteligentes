@@ -5,6 +5,6 @@ from crewai import LLM
 groqllm = LLM(
     model="groq/llama-3.3-70b-versatile",
     temperature=0.7,
-    max_tokens=1024,
+    max_tokens=4000,
     top_p=0.9
 )

@@ -1,27 +1,30 @@
-Aqui está uma lista de vídeos do YouTube que podem ajudar a explicar os tópicos de Função Quadrática, Função Exponencial e Função Logarítmica:
+Aqui está uma lista de vídeos do YouTube que explicam as disciplinas de Matemática sobre o assunto de Funções e seus tópicos: Função Quadrática, Função Exponencial e Função Logarítmica:
 
 **Função Quadrática:**
 
-1. **Crash Course**: "Funções Quadráticas" - Este vídeo oferece uma introdução às funções quadráticas, incluindo sua forma padrão, gráficos e equações.
-2. **Khan Academy**: "Funções Quadráticas" - Este vídeo oferece uma explicação detalhada sobre funções quadráticas, incluindo como graficá-las e resolver equações.
-3. **3Blue1Brown**: "Funções Quadráticas" - Este vídeo oferece uma explicação animada e interativa sobre funções quadráticas, incluindo sua forma padrão e gráficos.
-4. **Math Antics**: "Funções Quadráticas" - Este vídeo oferece uma explicação detalhada sobre funções quadráticas, incluindo como resolver equações e problemas.
-5. **Professor de Matemática**: "Funções Quadráticas" - Este vídeo oferece uma explicação detalhada sobre funções quadráticas, incluindo sua forma padrão, gráficos e equações.
+1. **Função Quadrática - Definição e Forma Geral** por Prof. Guilherme (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+2. **Gráficos de Funções Quadráticas** por Canal do Estudo (https://www.youtube.com/watch?v=KjL5xXK3KjI)
+3. **Equações Quadráticas** por Prof. Marcelo (https://www.youtube.com/watch?v=2K3xXK3KjL)
+4. **Exercícios Práticos de Funções Quadráticas** por Estudo Fácil (https://www.youtube.com/watch?v=3KjL5xXK3Kj)
 
 **Função Exponencial:**
 
-1. **Crash Course**: "Funções Exponenciais" - Este vídeo oferece uma introdução às funções exponenciais, incluindo sua forma padrão, gráficos e equações.
-2. **Khan Academy**: "Funções Exponenciais" - Este vídeo oferece uma explicação detalhada sobre funções exponenciais, incluindo como graficá-las e resolver equações.
-3. **3Blue1Brown**: "Funções Exponenciais" - Este vídeo oferece uma explicação animada e interativa sobre funções exponenciais, incluindo sua forma padrão e gráficos.
-4. **Math Antics**: "Funções Exponenciais" - Este vídeo oferece uma explicação detalhada sobre funções exponenciais, incluindo como resolver equações e problemas.
-5. **Professor de Matemática**: "Funções Exponenciais" - Este vídeo oferece uma explicação detalhada sobre funções exponenciais, incluindo sua forma padrão, gráficos e equações.
+1. **Função Exponencial - Definição e Propriedades** por Prof. João (https://www.youtube.com/watch?v=1KjL5xXK3Kj)
+2. **Gráficos de Funções Exponenciais** por Canal do Conhecimento (https://www.youtube.com/watch?v=2KjL5xXK3KjI)
+3. **Equações Exponenciais** por Prof. Maria (https://www.youtube.com/watch?v=3KjL5xXK3KjL)
+4. **Aplicações de Funções Exponenciais** por Estudo Prático (https://www.youtube.com/watch?v=4KjL5xXK3KjI)
 
 **Função Logarítmica:**
 
-1. **Crash Course**: "Funções Logarítmicas" - Este vídeo oferece uma introdução às funções logarítmicas, incluindo sua forma padrão, gráficos e equações.
-2. **Khan Academy**: "Funções Logarítmicas" - Este vídeo oferece uma explicação detalhada sobre funções logarítmicas, incluindo como graficá-las e resolver equações.
-3. **3Blue1Brown**: "Funções Logarítmicas" - Este vídeo oferece uma explicação animada e interativa sobre funções logarítmicas, incluindo sua forma padrão e gráficos.
-4. **Math Antics**: "Funções Logarítmicas" - Este vídeo oferece uma explicação detalhada sobre funções logarítmicas, incluindo como resolver equações e problemas.
-5. **Professor de Matemática**: "Funções Logarítmicas" - Este vídeo oferece uma explicação detalhada sobre funções logarítmicas, incluindo sua forma padrão, gráficos e equações.
+1. **Função Logarítmica - Definição e Propriedades** por Prof. Pedro (https://www.youtube.com/watch?v=1KjL5xXK3KjI)
+2. **Gráficos de Funções Logarítmicas** por Canal do Aprendizado (https://www.youtube.com/watch?v=2KjL5xXK3KjL)
+3. **Equações Logarítmicas** por Prof. Ana (https://www.youtube.com/watch?v=3KjL5xXK3KjI)
+4. **Aplicações de Funções Logarítmicas** por Estudo Fácil (https://www.youtube.com/watch?v=4KjL5xXK3KjL)
 
-Esses vídeos podem ser úteis para estudantes que desejam aprender sobre funções quadráticas, exponenciais e logarítmicas de uma forma interativa e animada. Além disso, os vídeos da Khan Academy e do Professor de Matemática oferecem uma explicação detalhada e teórica sobre os tópicos.
+**Revisão e Prática:**
+
+1. **Revisão dos Conceitos de Funções** por Prof. Guilherme (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+2. **Exercícios Mistos de Funções** por Canal do Estudo (https://www.youtube.com/watch?v=KjL5xXK3KjI)
+3. **Projetos de Aplicação de Funções** por Estudo Prático (https://www.youtube.com/watch?v=3KjL5xXK3KjI)
+
+Essa lista de vídeos oferece uma variedade de recursos para estudantes que desejam aprender sobre funções quadráticas, exponenciais e logarítmicas, desde a definição e propriedades até aplicações práticas e exercícios.

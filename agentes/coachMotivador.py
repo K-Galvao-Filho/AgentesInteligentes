@@ -1,5 +1,5 @@
 from crewai import Agent
-from uteis.groq_api import grocllm
+from uteis.groq_api import groqllm
 
 
 def chamaCoach():
@@ -8,5 +8,5 @@ def chamaCoach():
         role='Motivador',
         goal='Escrever uma mensagem motivacional para o estudante.',
         backstory='Você é um coach motivacional com experiência em ajudar estudantes a manterem o foco.',
-        llm=grocllm
+        llm=groqllm
     )

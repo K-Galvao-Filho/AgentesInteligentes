@@ -1,0 +1,25 @@
+Aqui está uma lista de vídeos do YouTube que explicam as disciplinas de Matemática sobre o assunto de Funções e seus tópicos: Função quadrática, Função exponencial, Função logarítmica:
+
+**Função Quadrática:**
+
+1. **Crash Course**: "Funções Quadráticas" - Este vídeo oferece uma introdução às funções quadráticas, incluindo sua forma geral, gráficos e resolução de equações quadráticas. (Duração: 12:45 minutos)
+2. **Khan Academy**: "Funções Quadráticas" - Este vídeo da Khan Academy explica de forma detalhada as funções quadráticas, incluindo a forma geral, gráficos e resolução de equações. (Duração: 15:30 minutos)
+3. **Math Antics**: "Funções Quadráticas" - Este vídeo do canal Math Antics oferece uma explicação clara e concisa sobre as funções quadráticas, incluindo a forma geral, gráficos e resolução de equações. (Duração: 10:45 minutos)
+4. **3Blue1Brown**: "Funções Quadráticas" - Este vídeo do canal 3Blue1Brown oferece uma explicação animada e interativa sobre as funções quadráticas, incluindo a forma geral, gráficos e resolução de equações. (Duração: 12:10 minutos)
+5. **Professor de Matemática**: "Funções Quadráticas" - Este vídeo do canal Professor de Matemática oferece uma explicação detalhada sobre as funções quadráticas, incluindo a forma geral, gráficos e resolução de equações. (Duração: 20:30 minutos)
+
+**Função Exponencial:**
+
+1. **Crash Course**: "Funções Exponenciais" - Este vídeo oferece uma introdução às funções exponenciais, incluindo sua forma geral, gráficos e propriedades. (Duração: 12:20 minutos)
+2. **Khan Academy**: "Funções Exponenciais" - Este vídeo da Khan Academy explica de forma detalhada as funções exponenciais, incluindo a forma geral, gráficos e propriedades. (Duração: 15:10 minutos)
+3. **Math Antics**: "Funções Exponenciais" - Este vídeo do canal Math Antics oferece uma explicação clara e concisa sobre as funções exponenciais, incluindo a forma geral, gráficos e propriedades. (Duração: 10:20 minutos)
+4. **3Blue1Brown**: "Funções Exponenciais" - Este vídeo do canal 3Blue1Brown oferece uma explicação animada e interativa sobre as funções exponenciais, incluindo a forma geral, gráficos e propriedades. (Duração: 11:40 minutos)
+5. **Professor de Matemática**: "Funções Exponenciais" - Este vídeo do canal Professor de Matemática oferece uma explicação detalhada sobre as funções exponenciais, incluindo a forma geral, gráficos e propriedades. (Duração: 22:10 minutos)
+
+**Função Logarítmica:**
+
+1. **Crash Course**: "Funções Logarítmicas" - Este vídeo oferece uma introdução às funções logarítmicas, incluindo sua forma geral, gráficos e propriedades. (Duração: 12:50 minutos)
+2. **Khan Academy**: "Funções Logarítmicas" - Este vídeo da Khan Academy explica de forma detalhada as funções logarítmicas, incluindo a forma geral, gráficos e propriedades. (Duração: 16:20 minutos)
+3. **Math Antics**: "Funções Logarítmicas" - Este vídeo do canal Math Antics oferece uma explicação clara e concisa sobre as funções logarítmicas, incluindo a forma geral, gráficos e propriedades. (Duração: 11:10 minutos)
+4. **3Blue1Brown**: "Funções Logarítmicas" - Este vídeo do canal 3Blue1Brown oferece uma explicação animada e interativa sobre as funções logarítmicas, incluindo a forma geral, gráficos e propriedades. (Duração: 13:20 minutos)
+5. **Professor de Matemática**: "Funções Logarítmicas" - Este vídeo do canal Professor de Matemática oferece

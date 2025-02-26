@@ -1,0 +1,41 @@
+Plano de Estudo Estruturado: Funções
+
+**Introdução**
+O estudo de funções é fundamental na matemática, pois permite entender e analisar relações entre variáveis. Neste plano de estudo, vamos nos concentrar em três tipos importantes de funções: Função Quadrática, Função Exponencial e Função Logarítmica. O objetivo é proporcionar uma compreensão aprofundada desses conceitos, facilitando a resolução de problemas e a aplicação em diversas áreas da matemática e outras ciências.
+
+**Semana 1: Função Quadrática**
+
+1. **Definição e Forma Geral**: Estudar a definição de função quadrática, sua forma geral (f(x) = ax^2 + bx + c), e entender os coeficientes a, b e c.
+2. **Gráficos**: Analisar os gráficos de funções quadráticas, identificando vértices, eixos de simetria, e interceptos.
+3. **Resolução de Equações Quadráticas**: Aprender métodos para resolver equações quadráticas, incluindo fatoração, quadrado perfeito e fórmula quadrática.
+4. **Exercícios Práticos**: Resolver exercícios que envolvam a identificação de características dos gráficos de funções quadráticas e a resolução de equações.
+
+**Semana 2: Função Exponencial**
+
+1. **Definição e Propriedades**: Estudar a definição de função exponencial (f(x) = a^x), suas propriedades, e a importância do número e.
+2. **Gráficos**: Analisar os gráficos de funções exponenciais, observando o crescimento ou decrescimento, e identificando características como assintotas.
+3. **Equações Exponenciais**: Aprender a resolver equações que envolvem funções exponenciais, utilizando logaritmos.
+4. **Aplicações**: Explorar aplicações de funções exponenciais em crescimento populacional, juros compostos, e outras áreas.
+
+**Semana 3: Função Logarítmica**
+
+1. **Definição e Propriedades**: Estudar a definição de função logarítmica (f(x) = log_a(x)), suas propriedades, e a relação com funções exponenciais.
+2. **Gráficos**: Analisar os gráficos de funções logarítmicas, identificando características como domínio, interceptos, e assintotas.
+3. **Equações Logarítmicas**: Aprender a resolver equações que envolvem funções logarítmicas, utilizando propriedades logarítmicas.
+4. **Aplicações**: Explorar aplicações de funções logarítmicas em escalas de medida, como a escala Richter para terremotos, e em finanças.
+
+**Semana 4: Revisão e Aplicações**
+
+1. **Revisão**: Revisar todos os conceitos estudados nas semanas anteriores.
+2. **Problemas Mistas**: Resolver problemas que envolvam as três funções (quadrática, exponencial e logarítmica) para aplicar a compreensão integral dos conceitos.
+3. **Projetos**: Desenvolver projetos que apliquem as funções estudadas em problemas reais ou hipotéticos, promovendo a criatividade e a aplicação prática do conhecimento.
+4. **Avaliação**: Realizar uma avaliação final para medir a compreensão dos tópicos abordados e identificar áreas que precisam de mais estudo.
+
+**Recursos**
+
+- Livros-texto de matemática que cubram funções quadráticas, exponenciais e logarítmicas.
+- Softwares de matemática ou calculadoras gráficas para visualizar gráficos e explorar propriedades das funções.
+- Sites educacionais e vídeos online que ofereçam explicações detalhadas e exercícios.
+
+**Conclusão**
+Este plano de estudo visa oferecer uma abordagem sistemática e completa para o estudo de funções quadráticas, exponenciais e logarítmicas. Com a dedicação e o cumprimento das atividades propostas, o estudante deve adquirir uma sólida compreensão desses conceitos matemáticos, preparando-se para aplic

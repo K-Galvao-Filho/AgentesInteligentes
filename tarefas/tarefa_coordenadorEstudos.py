@@ -8,5 +8,6 @@ def tarefaCoordenador(solicitacao, agente):
     return Task(
         description=f'Criar um plano de estudo estruturado com base nas seguintes informações: Disciplina: {disciplina}, Assunto: {assunto}, Tópicos: {topicos}.',
         agent=agente,
-        expected_output='Plano de estudos personalizado.'
+        expected_output='Plano de estudos personalizado.',
+        output_file="PlanoDeEstudo.txt"
     )

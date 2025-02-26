@@ -1,4 +1,5 @@
 from crewai import Crew
+from uteis.groq_api import groqllm
 
 #Chamando os agentes
 from agentes.coordenadorEstudos import chamaCoordenador
@@ -27,6 +28,7 @@ def formarEquipe(solicitacao):
         description='Uma equipe de especialistas em educação para ajudar estudantes a manterem o foco nos estudos.',
         members=[coordenador, especialista, motivador],
         tasks=[tarefa_coordenador, tarefa_especialista, tarefa_motivador]
+  
     )
 
     return equipe

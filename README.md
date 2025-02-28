@@ -6,16 +6,23 @@ Este repositório tem como objetivo o desenvolvimento de uma aplicação baseada
 
 O projeto visa explorar a construção de agentes inteligentes que interagem de forma autônoma para melhorar a experiência de estudo dos alunos. Cada agente desempenha um papel específico para tornar o aprendizado mais eficiente e motivador.
 
+
 ### 🧠 Agentes Inteligentes Desenvolvidos
 
-1. **Coordenador de Estudos**  
-   📚 Responsável por criar um plano de estudos personalizado para o aluno, considerando suas dificuldades em determinadas disciplinas.
+1. **Coordenador Geral**
+📚 Responsável por: Gerenciar todos os agentes, coordenando suas atividades e garantindo que as tarefas sejam executadas de forma eficiente e no tempo certo.
 
-2. **Especialista em Conteúdo**  
-   🔍 Pesquisará vídeos no YouTube sobre o assunto estudado e retornará os mais relevantes, garantindo materiais de qualidade para o aprendizado.
+2. **Coordenador Responsável pelo Guia de Estudos**
+📚 Responsável por: Criar um guia de estudos personalizado para o aluno, considerando suas dificuldades em determinadas disciplinas e fornecendo uma estrutura clara e organizada para o aprendizado.
 
-3. **Motivador**  
-   💡 Enviará mensagens motivacionais para incentivar o aluno a manter o foco e a disciplina nos estudos.
+3. **Coordenador Responsável pelo Plano de Estudos**
+📚 Responsável por: Desenvolver um plano de estudos personalizado, com cronograma e metas, adaptado às necessidades e ao ritmo do aluno.
+
+4. **Coordenador Responsável pelo Material de Estudos**
+🔍 Responsável por: Pesquisar e selecionar vídeos no YouTube sobre os tópicos estudados, garantindo que o aluno tenha acesso aos materiais mais relevantes e de qualidade para complementar seu aprendizado.
+
+5. **Coach Motivador**
+💡 Responsável por: Enviar mensagens motivacionais e dicas de produtividade para manter o aluno focado, disciplinado e engajado durante o processo de estudos.
 
 ---
 
@@ -57,7 +64,7 @@ Para manter as dependências organizadas e evitar conflitos, utilize um **ambien
 
 #### Criando o ambiente virtual:
 ```sh
-python -m venv venv
+python -m venv .venv
 ```
 
 #### Ativando o ambiente virtual:

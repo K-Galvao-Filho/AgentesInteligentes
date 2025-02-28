@@ -1,7 +1,5 @@
 **Guia de Estudo de Matemática: Funções**
 
-Este plano de estudo estruturado tem como objetivo ajudar os estudantes a aprender e entender os conceitos de funções quadráticas, exponenciais e logarítmicas. O plano é dividido em seis semanas, com objetivos, conteúdo, atividades e recursos para cada semana.
-
 **Semana 1-2: Função Quadrática**
 
 * Objetivos:

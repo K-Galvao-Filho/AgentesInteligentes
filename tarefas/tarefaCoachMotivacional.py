@@ -1,6 +1,6 @@
 from crewai import Task
 
-def tarefaCoach(agente):
+def tarefaCoachMotivacional(agente):
 
     return Task(
         description='Escrever uma mensagem motivacional para o estudante.',

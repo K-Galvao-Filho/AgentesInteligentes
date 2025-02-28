@@ -1,6 +1,6 @@
 from crewai import Task
 
-def tarefaEspecialista(solicitacao, agente):
+def tarefaCoordMaterialEstudos(solicitacao, agente):
     disciplina = solicitacao['disciplina']
     assunto = solicitacao['assunto']
     topicos = ', '.join(solicitacao['topicos'])

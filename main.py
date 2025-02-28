@@ -16,17 +16,24 @@ if __name__ == "__main__":
 
 # Consolidando os resultados
 with open("saida\material_completo.txt", "w", encoding="utf-8") as arquivo_final:
-    arquivo_final.write("\git n\n=== Plano de Estudos ===\n\n")
-    with open("saida\PlanoDeEstudo.txt", "r", encoding="utf-8") as plano:
+    
+    arquivo_final.write("\n\n=== Guia de Estudos ===\n\n")
+    with open("saida\GuiaDeEstudos.txt", "r", encoding="utf-8") as plano:
         arquivo_final.write(plano.read())
     
+    arquivo_final.write("\n\n=== Plano de Estudos ===\n\n")
+    with open("saida\PlanoDeEstudo.txt", "r", encoding="utf-8") as plano:
+        arquivo_final.write(plano.read())
+
     arquivo_final.write("\n\n=== Material de Estudos ===\n\n")
-    with open("saida\VideosYoutube.txt", "r", encoding="utf-8") as material:
-        arquivo_final.write(material.read())
+    with open("saida\VideosYoutube.txt", "r", encoding="utf-8") as plano:
+        arquivo_final.write(plano.read())
+
+    arquivo_final.write("\n\n=== Coach Motivacional ===\n\n")
+    with open("saida\Motivacao.txt", "r", encoding="utf-8") as plano:
+        arquivo_final.write(plano.read())        
     
-    arquivo_final.write("\n\n=== Dicas Motivacionais ===\n\n")
-    with open("saida\Motivacao.txt", "r", encoding="utf-8") as dicas:
-        arquivo_final.write(dicas.read())
+    
 
 import markdown
 

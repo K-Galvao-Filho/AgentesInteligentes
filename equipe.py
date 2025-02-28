@@ -2,33 +2,40 @@ from crewai import Crew
 from uteis.groq_api import groqllm
 
 #Chamando os agentes
-from agentes.coordenadorEstudos import chamaCoordenador
-from agentes.especialistaMaterial import chamaEspecialista
-from agentes.coachMotivador import chamaCoach
+from agentes.agenteCoordEquipe import chamaCoordenadorEquipe
+from agentes.agenteCoordGuiaEstudos import chamaCoordGuiaEstudos
+from agentes.agenteCoordPlanoEstudos import chamaCoordPlanoEstudos
+from agentes.agenteCoordMaterialEstudos import chamaCoordMaterialEstudos
+from agentes.agenteCoachMotivacional import chamaCoachMotivacional
 
 #Chamando as tarefas dos agentes
-from tarefas.tarefa_coordenadorEstudos import tarefaCoordenador
-from tarefas.tarefa_especialistaMaterial import tarefaEspecialista
-from tarefas.tarefa_coachMotivador import tarefaCoach
+from tarefas.tarefaCoordGuiaEstudos import tarefaCoordGuiaEstudos
+from tarefas.tarefaCoordPlanoEstudos import tarefaCoordPlanoEstudos
+from tarefas.tarefaCoordMaterialEstudos import tarefaCoordMaterialEstudos
+from tarefas.tarefaCoachMotivacional import tarefaCoachMotivacional
 
 def formarEquipe(solicitacao):
     # Criando agentes
-    coordenador = chamaCoordenador(solicitacao)
-    especialista = chamaEspecialista(solicitacao)
-    motivador = chamaCoach()
+    coordCentral = chamaCoordenadorEquipe()
+    guiaEstudos = chamaCoordGuiaEstudos(solicitacao)
+    planoEstudos = chamaCoordPlanoEstudos(solicitacao)
+    materialEstudos = chamaCoordMaterialEstudos(solicitacao)
+    coachMotivador = chamaCoachMotivacional()
         
     # Criando tarefas
-    tarefa_coordenador = tarefaCoordenador(solicitacao, coordenador)
-    tarefa_especialista = tarefaEspecialista(solicitacao, especialista)
-    tarefa_motivador = tarefaCoach(motivador)
+    trf_GuiaEstudos = tarefaCoordGuiaEstudos(solicitacao, guiaEstudos)
+    trf_PlanoEstudos = tarefaCoordPlanoEstudos(solicitacao, planoEstudos)
+    trf_MaterialEstudos = tarefaCoordMaterialEstudos(solicitacao, materialEstudos)
+    tarefa_motivador = tarefaCoachMotivacional(coachMotivador)
 
     # Criando a equipe
     equipe = Crew(
         name='Coordenação de Estudos Especializado',
         description='Uma equipe de especialistas em educação para ajudar estudantes a manterem o foco nos estudos.',
-        members=[coordenador, especialista, motivador],
-        tasks=[tarefa_coordenador, tarefa_especialista, tarefa_motivador]
+        members=[coordCentral, guiaEstudos, planoEstudos,materialEstudos,coachMotivador],
+        tasks=[trf_GuiaEstudos, trf_PlanoEstudos,trf_MaterialEstudos,tarefa_motivador]
   
     )
 
     return equipe
+

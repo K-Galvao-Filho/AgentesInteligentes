@@ -16,7 +16,7 @@ if __name__ == "__main__":
 
 # Consolidando os resultados
 with open("saida\material_completo.txt", "w", encoding="utf-8") as arquivo_final:
-    arquivo_final.write("\git n\n=== Plano de Estudos ===\n\n")
+    arquivo_final.write("\n\n=== Plano de Estudos ===\n\n")
     with open("saida\PlanoDeEstudo.txt", "r", encoding="utf-8") as plano:
         arquivo_final.write(plano.read())
     

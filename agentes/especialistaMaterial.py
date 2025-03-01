@@ -12,5 +12,6 @@ def chamaEspecialista(solicitacao):
         role='Coordenador de Estudos',
         goal=f'Sua tarefa é pesquisar no Youtube por vídeos que explique as Disciplina: {disciplina} sobre o Assunto: {assunto} e seus Tópicos: {topicos}',
         backstory='Você é um especialista em educação com experiência em criar planos de estudos eficientes.',
-        llm=groqllm
+        llm=groqllm,
+        verbose=True
     )

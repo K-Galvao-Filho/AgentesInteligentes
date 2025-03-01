@@ -1,45 +1,60 @@
+import os
+import markdown
+import gradio as gr
+from xhtml2pdf import pisa
 from equipe import formarEquipe
 
-solicitacao = {
-    "disciplina": "Matemática",
-    "assunto": "Funções",
-    "topicos": ["Função quadrática", "Função exponencial", "Função logarítmica"]
-}
+def converter_html_para_pdf(source_html, output_filename):
+    """
+    Converte uma string de HTML para PDF e salva no arquivo output_filename.
+    Retorna 0 em caso de sucesso ou um valor diferente de 0 em caso de erro.
+    """
+    with open(output_filename, "wb") as output_file:
+        pisa_status = pisa.CreatePDF(source_html, dest=output_file)
+    return pisa_status.err
 
-def executar_equipe(solicitacao):
-    equipe = formarEquipe(solicitacao)  # Aqui, solicitacao precisa ser um dicionário válido
-    resultado = equipe.kickoff()
-    return resultado
-
-if __name__ == "__main__":
-    executar_equipe(solicitacao)  # Passando o dicionário completo, e não apenas a string "Funções"
-
-# Consolidando os resultados
-with open("saida\material_completo.txt", "w", encoding="utf-8") as arquivo_final:
-    arquivo_final.write("\n\n=== Plano de Estudos ===\n\n")
-    with open("saida\PlanoDeEstudo.txt", "r", encoding="utf-8") as plano:
-        arquivo_final.write(plano.read())
+def executar_equipe_interface(disciplina, assunto, topicos_str):
+    # Converter a string de tópicos para uma lista
+    topicos = [t.strip() for t in topicos_str.split(',') if t.strip()]
     
-    arquivo_final.write("\n\n=== Material de Estudos ===\n\n")
-    with open("saida\VideosYoutube.txt", "r", encoding="utf-8") as material:
-        arquivo_final.write(material.read())
+    # Construir o dicionário de solicitação conforme esperado
+    solicitacao = {
+        "disciplina": disciplina,
+        "assunto": assunto,
+        "topicos": topicos
+    }
     
-    arquivo_final.write("\n\n=== Dicas Motivacionais ===\n\n")
-    with open("saida\Motivacao.txt", "r", encoding="utf-8") as dicas:
-        arquivo_final.write(dicas.read())
-
-import markdown
-
-# 1. Ler o arquivo material_completo.txt
-with open("saida\material_completo.txt", "r", encoding="utf-8") as file:
-    markdown_text = file.read()
-
-# 2. Converter Markdown para HTML
-html_content = markdown.markdown(markdown_text)
-
-# 3. Adicionar estilos básicos ao HTML (opcional)
-html_with_style = f"""
-<!DOCTYPE html>
+    # Executar a rotina da equipe
+    equipe = formarEquipe(solicitacao)
+    equipe.kickoff()
+    
+    # Garantir que o diretório de saída exista
+    output_folder = "saida"
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+    
+    # Consolidar os materiais em um arquivo Markdown
+    markdown_path = os.path.join(output_folder, "material_completo.txt")
+    with open(markdown_path, "w", encoding="utf-8") as arquivo_final:
+        arquivo_final.write("\n\n=== Plano de Estudos ===\n\n")
+        with open(os.path.join(output_folder, "PlanoDeEstudo.txt"), "r", encoding="utf-8") as plano:
+            arquivo_final.write(plano.read())
+        
+        arquivo_final.write("\n\n=== Material de Estudos ===\n\n")
+        with open(os.path.join(output_folder, "VideosYoutube.txt"), "r", encoding="utf-8") as material:
+            arquivo_final.write(material.read())
+        
+        arquivo_final.write("\n\n=== Dicas Motivacionais ===\n\n")
+        with open(os.path.join(output_folder, "Motivacao.txt"), "r", encoding="utf-8") as dicas:
+            arquivo_final.write(dicas.read())
+    
+    # Ler o conteúdo Markdown para exibição
+    with open(markdown_path, "r", encoding="utf-8") as f:
+        markdown_text = f.read()
+    
+    # Converter Markdown para HTML
+    html_content = markdown.markdown(markdown_text)
+    html_with_style = f"""<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -56,12 +71,35 @@ html_with_style = f"""
 <body>
 {html_content}
 </body>
-</html>
-"""
+</html>"""
+    
+    # Salvar o HTML gerado
+    html_path = os.path.join(output_folder, "material_completo.html")
+    with open(html_path, "w", encoding="utf-8") as html_file:
+        html_file.write(html_with_style)
+    
+    # Converter o HTML para PDF usando xhtml2pdf
+    pdf_path = os.path.join(output_folder, "material_completo.pdf")
+    erro = converter_html_para_pdf(html_with_style, pdf_path)
+    if erro:
+        pdf_path = None  # Em caso de erro, retorna None para o PDF
+    
+    # Retornar o conteúdo Markdown para visualização e o caminho do PDF para download
+    return markdown_text, pdf_path
 
-# 4. Salvar o HTML em um arquivo
-with open("saida\material_completo.html", "w", encoding="utf-8") as html_file:
-    html_file.write(html_with_style)
+iface = gr.Interface(
+    fn=executar_equipe_interface,
+    inputs=[
+        gr.Textbox(label="Disciplina", value="Matemática"),
+        gr.Textbox(label="Assunto", value="Funções"),
+        gr.Textbox(label="Tópicos (separados por vírgula)", value="Função quadrática, Função exponencial, Função logarítmica")
+    ],
+    outputs=[
+        gr.Markdown(label="Material Completo (Markdown)"),
+        gr.File(label="Download do PDF")
+    ],
+    title="Interface - Material de Estudos",
+    description="Interface para gerar material de estudo em Markdown e converter para PDF, utilizando xhtml2pdf (sem necessidade de instalações externas)."
+)
 
-print("HTML gerado com sucesso! Verifique o arquivo 'material_completo.html'.")
-print("Material completo gerado com sucesso! Verifique o arquivo 'material_completo.txt'.")
+iface.launch()

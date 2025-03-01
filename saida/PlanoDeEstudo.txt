@@ -1,0 +1,95 @@
+Plano de Estudos Personalizado: Matemática - Funções
+
+**Introdução**
+O objetivo deste plano de estudos é fornecer uma estrutura clara e eficaz para o estudo das funções na disciplina de Matemática, abordando os tópicos de Função Quadrática, Função Exponencial e Função Logarítmica. Este plano é personalizado para atender às necessidades individuais do estudante, permitindo uma aprendizagem mais eficiente e significativa.
+
+**Semana 1: Revisão de Conceitos Básicos e Introdução às Funções**
+
+- **Dia 1-2: Revisão de Álgebra Básica**
+  - Revisar equações e inequações lineares e quadráticas.
+  - Praticar resolução de problemas simples.
+
+- **Dia 3-4: Introdução às Funções**
+  - Definição de função.
+  - Tipos de funções (injetora, sobrejetora, bijetora).
+  - Representação gráfica de funções simples.
+
+- **Dia 5-6: Prática e Exercícios**
+  - Resolver exercícios de identificação e representação gráfica de funções básicas.
+  - Iniciar um caderno de anotações com conceitos-chave e fórmulas importantes.
+
+- **Dia 7: Revisão e Planejamento**
+  - Revisar o material estudado durante a semana.
+  - Planejar o estudo para a semana seguinte, definindo metas específicas.
+
+**Semana 2: Função Quadrática**
+
+- **Dia 8-9: Introdução à Função Quadrática**
+  - Definição e forma padrão da função quadrática.
+  - Análise da representação gráfica (parábola).
+
+- **Dia 10-11: Propriedades da Função Quadrática**
+  - Vértice, eixo de simetria, raízes e intervalos de aumento/decréscimo.
+  - Cálculo do vértice e análise de concavidade.
+
+- **Dia 12-13: Resolução de Equações Quadráticas**
+  - Fatoração, quadrado perfeito e fórmula quadrática.
+  - Aplicação em problemas do mundo real.
+
+- **Dia 14: Prática e Exercícios**
+  - Resolver exercícios que envolvam todas as propriedades e resolução de equações quadráticas.
+
+**Semana 3: Função Exponencial**
+
+- **Dia 15-16: Introdução à Função Exponencial**
+  - Definição e propriedades básicas (domínio, contradomínio, crescimento/decréscimo).
+  - Gráficos de funções exponenciais simples.
+
+- **Dia 17-18: Análise de Funções Exponenciais**
+  - Taxa de crescimento e decaimento.
+  - Aplicação em modelos de crescimento populacional e financeiro.
+
+- **Dia 19-20: Equações Exponenciais**
+  - Resolução de equações exponenciais simples.
+  - Aplicação em problemas de química, biologia e física.
+
+- **Dia 21: Prática e Exercícios**
+  - Resolver uma variedade de problemas que envolvam funções exponenciais.
+
+**Semana 4: Função Logarítmica**
+
+- **Dia 22-23: Introdução à Função Logarítmica**
+  - Definição e propriedades (domínio, contradomínio, crescimento).
+  - Relação com a função exponencial.
+
+- **Dia 24-25: Análise de Funções Logarítmicas**
+  - Gráficos e identificação de características-chave (assíntotas, pontos de inflexão).
+  - Aplicação em problemas de engenharia e ciências.
+
+- **Dia 26-27: Equações Logarítmicas**
+  - Resolução de equações logarítmicas básicas.
+  - Uso de propriedades logarítmicas para simplificar expressões.
+
+- **Dia 28: Revisão e Prática**
+  - Revisar todos os conceitos estudados até o momento.
+  - Praticar exercícios mistos que envolvam as três funções.
+
+**Semana 5: Revisão e Avaliação**
+
+- **Dia 29-30: Revisão Geral**
+  - Revisar todos os tópicos abordados nas semanas anteriores.
+  - Foco em áreas de dificuldade.
+
+- **Dia 31-32: Prática de Provas e Exercícios Diversos**
+  - Simular provas ou testes para avaliar o conhecimento.
+  - Resolver exercícios de nível avançado ou aplicados a situações do mundo real.
+
+- **Dia 33-34: Análise de Desempenho e Planejamento Futuro**
+  - Avaliar o progresso e identificar áreas para melhoria.
+  - Planejar o estudo para o futuro, considerando novos objetivos e metas.
+
+- **Dia 35: Revisão Final e Celebração do Progresso**
+  - Realizar uma revisão final de todos os conceitos.
+  - Celebrar o progresso e o conhecimento adquirido.
+
+Este plano de estudos é flexível e pode ser adaptado de acordo com o ritmo e as necessidades individuais do estudante. É importante manter uma rotina de estudo regular, praticar consistentemente e buscar ajuda quando necessário. Boa sorte!

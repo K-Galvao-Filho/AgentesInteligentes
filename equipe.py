@@ -1,5 +1,4 @@
 from crewai import Crew
-from uteis.groq_api import groqllm
 
 #Chamando os agentes
 from agentes.agenteCoordEquipe import chamaCoordenadorEquipe
@@ -14,26 +13,37 @@ from tarefas.tarefaCoordPlanoEstudos import tarefaCoordPlanoEstudos
 from tarefas.tarefaCoordMaterialEstudos import tarefaCoordMaterialEstudos
 from tarefas.tarefaCoachMotivacional import tarefaCoachMotivacional
 
+from pesquisaYoutube import pesquisarYoutube
+
 def formarEquipe(solicitacao):
+
+    disciplina = solicitacao['disciplina']
+    assunto = solicitacao['assunto']
+    topicos = ', '.join(solicitacao['topicos'])
+    entradaYoutube = f"{disciplina}, {assunto}, {topicos}"
+    
+    saidaYoutube = pesquisarYoutube(entradaYoutube)
+
     # Criando agentes
     coordCentral = chamaCoordenadorEquipe()
+    coachMotivador = chamaCoachMotivacional()
     guiaEstudos = chamaCoordGuiaEstudos(solicitacao)
     planoEstudos = chamaCoordPlanoEstudos(solicitacao)
     materialEstudos = chamaCoordMaterialEstudos(solicitacao)
-    coachMotivador = chamaCoachMotivacional()
         
     # Criando tarefas
+    tarefa_motivador = tarefaCoachMotivacional(coachMotivador)
     trf_GuiaEstudos = tarefaCoordGuiaEstudos(solicitacao, guiaEstudos)
     trf_PlanoEstudos = tarefaCoordPlanoEstudos(solicitacao, planoEstudos)
-    trf_MaterialEstudos = tarefaCoordMaterialEstudos(solicitacao, materialEstudos)
-    tarefa_motivador = tarefaCoachMotivacional(coachMotivador)
+    trf_MaterialEstudos = tarefaCoordMaterialEstudos(saidaYoutube, materialEstudos)
+    
 
     # Criando a equipe
     equipe = Crew(
         name='Coordenação de Estudos Especializado',
         description='Uma equipe de especialistas em educação para ajudar estudantes a manterem o foco nos estudos.',
-        members=[coordCentral, guiaEstudos, planoEstudos,materialEstudos,coachMotivador],
-        tasks=[trf_GuiaEstudos, trf_PlanoEstudos,trf_MaterialEstudos,tarefa_motivador]
+        members=[coordCentral, coachMotivador, guiaEstudos, planoEstudos,materialEstudos],
+        tasks=[tarefa_motivador, trf_GuiaEstudos, trf_PlanoEstudos,trf_MaterialEstudos]
   
     )
 

@@ -2,221 +2,131 @@
 
 === Guia de Estudos ===
 
-**Guia de Estudo de Matemática: Funções**
+**Plano de Estudos Personalizado: História do Brasil - República**
 
-**Semana 1-2: Função Quadrática**
+**Semana 1-2: República Velha (1889-1930)**
 
-* Objetivos:
-	+ Definição e representação gráfica de funções quadráticas
-	+ Identificar e analisar as características de funções quadráticas (vértice, eixo de simetria, concavidade)
-	+ Resolução de problemas envolvendo funções quadráticas
-* Conteúdo:
-	+ Definição de funções quadráticas
-	+ Representação gráfica de funções quadráticas
-	+ Características de funções quadráticas (vértice, eixo de simetria, concavidade)
-	+ Aplicação de funções quadráticas em problemas reais
+* Objetivo: Compreender a transição do Brasil Imperial para a República e conhecimento sobre a estrutura política e econômica do período.
+* Leitura obrigatória: Capítulos 1-3 do livro "História do Brasil" de Boris Fausto.
 * Atividades:
-	+ Exercícios de identificação e análise de características de funções quadráticas
-	+ Resolução de problemas envolvendo funções quadráticas
-	+ Construção de gráficos de funções quadráticas
-* Recursos:
-	+ Livro de Matemática
-	+ Sites de recursos online (Khan Academy, Mathway, etc.)
-	+ Aplicativos de gráficos (Desmos, Graphing Calculator, etc.)
+	+ Análise da Proclamação da República e sua importância histórica.
+	+ Identificação dos principais líderes políticos da época (Deodoro da Fonseca, Floriano Peixoto, etc.).
+	+ Análise da estruturação do sistema político e econômico do país durante a República Velha.
+* Avaliação: Realizar um mapa mental sobre a estrutura política e econômica do período.
 
-**Semana 3-4: Função Exponencial**
+**Semana 3-4: Era Vargas (1930-1945)**
 
-* Objetivos:
-	+ Definição e representação gráfica de funções exponenciais
-	+ Identificar e analisar as características de funções exponenciais (crescimento/descrescimento, assíntota)
-	+ Resolução de problemas envolvendo funções exponenciais
-* Conteúdo:
-	+ Definição de funções exponenciais
-	+ Representação gráfica de funções exponenciais
-	+ Características de funções exponenciais (crescimento/descrescimento, assíntota)
-	+ Aplicação de funções exponenciais em problemas reais
+* Objetivo: Compreender a ascensão de Getúlio Vargas ao poder e as principais mudanças políticas e econômicas implementadas durante seu governo.
+* Leitura obrigatória: Capítulos 4-6 do livro "História do Brasil" de Boris Fausto.
 * Atividades:
-	+ Exercícios de identificação e análise de características de funções exponenciais
-	+ Resolução de problemas envolvendo funções exponenciais
-	+ Construção de gráficos de funções exponenciais
-* Recursos:
-	+ Livro de Matemática
-	+ Sites de recursos online (Khan Academy, Mathway, etc.)
-	+ Aplicativos de gráficos (Desmos, Graphing Calculator, etc.)
+	+ Análise da Revolução de 1930 e sua importância na história do Brasil.
+	+ Identificação dos principais programas e políticas públicas implementadas durante a Era Vargas (Estado Novo, etc.).
+	+ Análise da estruturação do sistema político e econômico do país durante a Era Vargas.
+* Avaliação: Realizar um texto sobre as principais características da Era Vargas.
 
-**Semana 5-6: Função Logarítmica**
+**Semana 5-6: Ditadura Militar (1964-1985)**
 
-* Objetivos:
-	+ Definição e representação gráfica de funções logarítmicas
-	+ Identificar e analisar as características de funções logarítmicas (crescimento/descrescimento, assíntota)
-	+ Resolução de problemas envolvendo funções logarítmicas
-* Conteúdo:
-	+ Definição de funções logarítmicas
-	+ Representação gráfica de funções logarítmicas
-	+ Características de funções logarítmicas (crescimento/descrescimento, assíntota)
-	+ Aplicação de funções logarítmicas em problemas reais
+* Objetivo: Compreender a ascensão dos militares ao poder e as principais características políticas e econômicas do período.
+* Leitura obrigatória: Capítulos 7-9 do livro "História do Brasil" de Boris Fausto.
 * Atividades:
-	+ Exercícios de identificação e análise de características de funções logarítmicas
-	+ Resolução de problemas envolvendo funções logarítmicas
-	+ Construção de gráficos de funções logarítmicas
-* Recursos:
-	+ Livro de Matemática
-	+ Sites de recursos online (Khan Academy, Mathway, etc.)
-	+ Aplicativos de gráficos (Desmos, Graphing Calculator, etc.)
+	+ Análise do golpe militar de 1964 e sua importância histórica.
+	+ Identificação dos principais líderes políticos da época (Castelo Branco, Médici, etc.).
+	+ Análise da estruturação do sistema político e econômico do país durante a Ditadura Militar.
+* Avaliação: Realizar um cronograma sobre os principais eventos da Ditadura Militar.
 
-**Avaliação**
+**Revisão e Consolidação**
 
-* Realizar exercícios e problemas envolvendo funções quadráticas, exponenciais e logarítmicas
-* Construir gráficos de diferentes tipos de funções
-* Realizar uma prova ou projeto que aborda os conceitos aprendidos
+* Semana 7-8: Revisão dos principais temas abordados durante o plano de estudos.
+* Atividades:
+	+ Realizar um resumo dos principais pontos abordados em cada período.
+	+ Identificar as principais relações entre os períodos estudados.
+	+ Realizar um texto final sobre a História do Brasil - República.
 
-**Dicas e Sugestões**
+**Lembre-se:**
 
-* Estabelecer um cronograma de estudos semanal
-* Realizar revisões regulares dos conceitos aprendidos
-* Utilizar recursos online e aplicativos de gráficos para praticar e visualizar as funções
-* Procurar ajuda de um professor ou tutor se necessário
+* Estabelecer metas diárias e semanais para alcançar os objetivos.
+* Realizar anotações e resumos personalizados sobre os temas abordados.
+* Utilizar recursos adicionais (documentários, filmes, etc.) para complementar o conhecimento.
+* Acredite em si mesmo e no seu potencial!
 
 === Plano de Estudos ===
 
-**Guia de Estudo de Matemática: Funções**
+Querido estudante, você está no controle! Você tem o poder de escolher como vai abordar seus estudos e alcançar seus objetivos. Lembre-se de que cada pequeno passo é um passo em frente. Não desista, não perca a motivação. Você é capaz de superar qualquer obstáculo e alcançar o sucesso. Acredite em si mesmo e no seu potencial. Você é forte, você é capaz e você vai conseguir!
 
-Este plano de estudo estruturado tem como objetivo ajudar os estudantes a aprender e entender os conceitos de funções quadráticas, exponenciais e logarítmicas. O plano é dividido em seis semanas, com objetivos, conteúdo, atividades e recursos para cada semana.
+----------
 
-**Semana 1-2: Função Quadrática**
+**Plano de Estudos Personalizado: História do Brasil - República**
 
-* Objetivos:
-	+ Definição e representação gráfica de funções quadráticas
-	+ Identificar e analisar as características de funções quadráticas (vértice, eixo de simetria, concavidade)
-	+ Resolução de problemas envolvendo funções quadráticas
-* Conteúdo:
-	+ Definição de funções quadráticas
-	+ Representação gráfica de funções quadráticas
-	+ Características de funções quadráticas (vértice, eixo de simetria, concavidade)
-	+ Aplicação de funções quadráticas em problemas reais
+**Semana 1-2: República Velha (1889-1930)**
+
+* Objetivo: Compreender a transição do Brasil Imperial para a República e conhecimento sobre a estrutura política e econômica do período.
+* Leitura obrigatória: Capítulos 1-3 do livro "História do Brasil" de Boris Fausto.
 * Atividades:
-	+ Exercícios de identificação e análise de características de funções quadráticas
-	+ Resolução de problemas envolvendo funções quadráticas
-	+ Construção de gráficos de funções quadráticas
-* Recursos:
-	+ Livro de Matemática
-	+ Sites de recursos online (Khan Academy, Mathway, etc.)
-	+ Aplicativos de gráficos (Desmos, Graphing Calculator, etc.)
+	+ Análise da Proclamação da República e sua importância histórica.
+	+ Identificação dos principais líderes políticos da época (Deodoro da Fonseca, Floriano Peixoto, etc.).
+	+ Análise da estruturação do sistema político e econômico do país durante a República Velha.
+* Avaliação: Realizar um mapa mental sobre a estrutura política e econômica do período.
 
-**Semana 3-4: Função Exponencial**
+**Semana 3-4: Era Vargas (1930-1945)**
 
-* Objetivos:
-	+ Definição e representação gráfica de funções exponenciais
-	+ Identificar e analisar as características de funções exponenciais (crescimento/descrescimento, assíntota)
-	+ Resolução de problemas envolvendo funções exponenciais
-* Conteúdo:
-	+ Definição de funções exponenciais
-	+ Representação gráfica de funções exponenciais
-	+ Características de funções exponenciais (crescimento/descrescimento, assíntota)
-	+ Aplicação de funções exponenciais em problemas reais
+* Objetivo: Compreender a ascensão de Getúlio Vargas ao poder e as principais mudanças políticas e econômicas implementadas durante seu governo.
+* Leitura obrigatória: Capítulos 4-6 do livro "História do Brasil" de Boris Fausto.
 * Atividades:
-	+ Exercícios de identificação e análise de características de funções exponenciais
-	+ Resolução de problemas envolvendo funções exponenciais
-	+ Construção de gráficos de funções exponenciais
-* Recursos:
-	+ Livro de Matemática
-	+ Sites de recursos online (Khan Academy, Mathway, etc.)
-	+ Aplicativos de gráficos (Desmos, Graphing Calculator, etc.)
+	+ Análise da Revolução de 1930 e sua importância na história do Brasil.
+	+ Identificação dos principais programas e políticas públicas implementadas durante a Era Vargas (Estado Novo, etc.).
+	+ Análise da estruturação do sistema político e econômico do país durante a Era Vargas.
+* Avaliação: Realizar um texto sobre as principais características da Era Vargas.
 
-**Semana 5-6: Função Logarítmica**
+**Semana 5-6: Ditadura Militar (1964-1985)**
 
-* Objetivos:
-	+ Definição e representação gráfica de funções logarítmicas
-	+ Identificar e analisar as características de funções logarítmicas (crescimento/descrescimento, assíntota)
-	+ Resolução de problemas envolvendo funções logarítmicas
-* Conteúdo:
-	+ Definição de funções logarítmicas
-	+ Representação gráfica de funções logarítmicas
-	+ Características de funções logarítmicas (crescimento/descrescimento, assíntota)
-	+ Aplicação de funções logarítmicas em problemas reais
+* Objetivo: Compreender a ascensão dos militares ao poder e as principais características políticas e econômicas do período.
+* Leitura obrigatória: Capítulos 7-9 do livro "História do Brasil" de Boris Fausto.
 * Atividades:
-	+ Exercícios de identificação e análise de características de funções logarítmicas
-	+ Resolução de problemas envolvendo funções logarítmicas
-	+ Construção de gráficos de funções logarítmicas
-* Recursos:
-	+ Livro de Matemática
-	+ Sites de recursos online (Khan Academy, Mathway, etc.)
-	+ Aplicativos de gráficos (Desmos, Graphing Calculator, etc.)
+	+ Análise do golpe militar de 1964 e sua importância histórica.
+	+ Identificação dos principais líderes políticos da época (Castelo Branco, Médici, etc.).
+	+ Análise da estruturação do sistema político e econômico do país durante a Ditadura Militar.
+* Avaliação: Realizar um cronograma sobre os principais eventos da Ditadura Militar.
 
-**Avaliação**
+**Revisão e Consolidação**
 
-* Realizar exercícios e problemas envolvendo funções quadráticas, exponenciais e logarítmicas
-* Construir gráficos de diferentes tipos de funções
-* Realizar uma prova ou projeto que aborda os conceitos aprendidos
+* Semana 7-8: Revisão dos principais temas abordados durante o plano de estudos.
+* Atividades:
+	+ Realizar um resumo dos principais pontos abordados em cada período.
+	+ Identificar as principais relações entre os períodos estudados.
+	+ Realizar um texto final sobre a História do Brasil - República.
 
-**Dicas e Sugestões**
+**Lembre-se:**
 
-* Estabelecer um cronograma de estudos semanal
-* Realizar revisões regulares dos conceitos aprendidos
-* Utilizar recursos online e aplicativos de gráficos para praticar e visualizar as funções
-* Procurar ajuda de um professor ou tutor se necessário
+* Estabelecer metas diárias e semanais para alcançar os objetivos.
+* Realizar anotações e resumos personalizados sobre os temas abordados.
+* Utilizar recursos adicionais (documentários, filmes, etc.) para complementar o conhecimento.
+* Acredite em si mesmo e no seu potencial!
 
 === Material de Estudos ===
 
-**
+**Lista de Vídeos Relacionados ao Assunto: História do Brasil - República**
 
-Aqui está uma lista de vídeos do YouTube que explicam as funções matemáticas solicitadas:
+**República Velha (1889-1930)**
 
-**Função Quadrática:**
-1. **Função Quadrática - Aula Completa**  
-   Canal: Aula de Matemática  
-   Link: [https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=XXXXXXX)  
-   Descrição: Explicação detalhada sobre funções quadráticas, incluindo forma geral, vértice, eixo de simetria e concavidade.
+* REPÚBLICA VELHA | QUER QUE DESENHE | DESCOMPLICA - Canal Descomplica (https://www.youtube.com/watch?v=Vw4HGHDWMjs)
+* A Primeira República do Brasil (República Velha) - Canal Toda Matéria (https://www.youtube.com/watch?v=q1knhnv_1pY)
 
-2. **Funções Quadráticas - Prof. Guilherme Augusta**  
-   Canal: Guilherme Augusta  
-   Link: [https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=XXXXXXX)  
-   Descrição: Aula prática sobre como resolver problemas envolvendo funções quadráticas.
+**Era Vargas (1930-1945)**
 
-**Função Exponencial:**
-3. **Funções Exponenciais - Explicação e Exercícios**  
-   Canal: Math para Todos  
-   Link: [https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=XXXXXXX)  
-   Descrição: Introdução às funções exponenciais, características e exemplos práticos.
+* ERA VARGAS: RESUMO PARA O ENEM | QUER QUE DESENHE? | DESCOMPLICA - Canal Descomplica (https://www.youtube.com/watch?v=TiJBt5RrA-E)
+* TUDO QUE VOCÊ PRECISA SABER SOBRE A ERA VARGAS: tá longo, mas vale a pena! (Débora Aladim) - Canal Débora Aladim (https://www.youtube.com/watch?v=jQU6Ojetq8M)
+* ERA VARGAS - Resumo Desenhado - Canal HISTORIAR-TE (https://www.youtube.com/watch?v=DL9llZP4a6k)
+* RESUMINDO A ERA VARGAS EM 5 MINUTOS! (deu mais que isso, mas eu tentei!) - Débora Aladim - Canal Débora Aladim (https://www.youtube.com/watch?v=am2tMD_Vnjc)
 
-4. **Funções Exponenciais - Aula Completa**  
-   Canal: Aulas de Matemática  
-   Link: [https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=XXXXXXX)  
-   Descrição: Cobertura abrangente de funções exponenciais, incluindo crescimento, decrescimento e assíntotas.
+**Ditadura Militar (1964-1985)**
 
-**Função Logarítmica:**
-5. **Funções Logarítmicas - Aula Básica**  
-   Canal: Canal do Estudante  
-   Link: [https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=XXXXXXX)  
-   Descrição: Explicação clara sobre funções logarítmicas, suas propriedades e exemplos.
+* 500 Anos em 1 Hora / História do Brasil - Canal Nostalgia (https://www.youtube.com/watch?v=q7E4XrfGGnE)
 
-6. **Funções Logarítmicas - Aplicação Prática**  
-   Canal: Educação em Foco  
-   Link: [https://www.youtube.com/watch?v=XXXXXXX](https://www.youtube.com/watch?v=XXXXXXX)  
-   Descrição: Aula focada em resolver problemas reais usando funções logarítmicas.
+**Outros Recursos**
 
-Estes vídeos oferecem explicações claras e exemplos práticos para cada tipo de função, ajudando a compreender melhor os conceitos.
+* Aula 02 - Direitos Humanos e Fundamentais - Constituição de 1988 - Canal Thomas Kefas (https://www.youtube.com/watch?v=GYVAgdeTeek)
+* Resumo de História: REPÚBLICA OLIGÁRQUICA (Débora Aladim) - Canal Débora Aladim (https://www.youtube.com/watch?v=FmGVa7W--mg)
 
 === Coach Motivacional ===
 
-**Mensagem Motivacional para o Estudante**
-
-Caro(a) [Nome do Estudante],
-
-Sabe aquela sensação de que os objetivos estão um pouco distantes e que o caminho parece longo demais? Pois saiba que você não está sozinho nessa jornada! Cada passo que você dá, cada página que você vira, cada exercício que você resolve é um passo de gigante em direção ao seu sonho.
-
-As funções quadráticas, exponenciais e logarítmicas podem parecer desafios imponentes no início, mas lembre-se de que até os grandes mestres começaram pequenos. Cada detalhe que você entende hoje será a base sobre a qual você construirá seu sucesso amanhã.
-
-**Lembre-se:**  
-- **Cada pequeno progresso é um grande passo.** Não se desespere se algo não fica claro de imediato. A persistência é sua maior aliada.  
-- **Estabeleça metas claras e alcançáveis.** Isso ajudará a manter o foco e a ver os resultados mais rapidamente.  
-- **Não tenha medo de pedir ajuda.** Seja do professor, de um tutor ou até mesmo de um amigo, o apoio pode fazer toda a diferença.  
-- **Acredite em si mesmo.** Você tem todo o potencial para conquistar seus objetivos e brilhar nos estudos.
-
-Continue firme, pratique constantemente e celebre cada conquista, por menor que seja. O sucesso é uma jornada, não um destino.
-
-Você é capaz de mais do que imagina!  
-
-Com muita força e motivação,  
-[Seu Nome]  
-Coach Motivacional
+Querido estudante, você está no controle! Você tem o poder de escolher como vai abordar seus estudos e alcançar seus objetivos. Lembre-se de que cada pequeno passo é um passo em frente. Não desista, não perca a motivação. Você é capaz de superar qualquer obstáculo e alcançar o sucesso. Acredite em si mesmo e no seu potencial. Você é forte, você é capaz e você vai conseguir!

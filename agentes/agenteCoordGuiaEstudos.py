@@ -1,5 +1,5 @@
 from crewai import Agent
-from uteis.groq_api import groqllm
+from uteis.api_key import groqllm
 
 
 def chamaCoordGuiaEstudos(solicitacao):

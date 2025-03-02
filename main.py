@@ -1,10 +1,11 @@
 from equipe import formarEquipe
 
 solicitacao = {
-    "disciplina": "Matemática",
-    "assunto": "Funções",
-    "topicos": ["Função quadrática", "Função exponencial", "Função logarítmica"]
+    "disciplina": "História",
+    "assunto": "Brasil República",
+    "topicos": ["República Velha", "Era Vargas", "Ditadura Militar"]
 }
+
 
 def executar_equipe(solicitacao):
     equipe = formarEquipe(solicitacao)  # Aqui, solicitacao precisa ser um dicionário válido

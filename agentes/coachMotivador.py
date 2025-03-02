@@ -1,7 +1,6 @@
 from crewai import Agent
 from uteis.groq_api import groqllm
 
-
 def chamaCoach():
 
     return Agent(

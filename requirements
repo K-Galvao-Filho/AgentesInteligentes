@@ -5,4 +5,5 @@ groq
 python-dotenv
 markdown
 xhtml2pdf 
-ReportLab 
+ReportLab
+gradio

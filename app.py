@@ -36,6 +36,10 @@ def executar_equipe_interface(disciplina, assunto, topicos_str):
     # Consolidar os materiais em um arquivo Markdown
     markdown_path = os.path.join(output_folder, "material_completo.txt")
     with open(markdown_path, "w", encoding="utf-8") as arquivo_final:
+        arquivo_final.write("\n\n=== Dicas Motivacionais ===\n\n")
+        with open(os.path.join(output_folder, "Motivacao.txt"), "r", encoding="utf-8") as dicas:
+            arquivo_final.write(dicas.read())        
+        
         arquivo_final.write("\n\n=== Plano de Estudos ===\n\n")
         with open(os.path.join(output_folder, "PlanoDeEstudo.txt"), "r", encoding="utf-8") as plano:
             arquivo_final.write(plano.read())
@@ -44,34 +48,30 @@ def executar_equipe_interface(disciplina, assunto, topicos_str):
         with open(os.path.join(output_folder, "VideosYoutube.txt"), "r", encoding="utf-8") as material:
             arquivo_final.write(material.read())
         
-        arquivo_final.write("\n\n=== Dicas Motivacionais ===\n\n")
-        with open(os.path.join(output_folder, "Motivacao.txt"), "r", encoding="utf-8") as dicas:
-            arquivo_final.write(dicas.read())
-    
     # Ler o conteúdo Markdown para exibição
     with open(markdown_path, "r", encoding="utf-8") as f:
         markdown_text = f.read()
     
     # Converter Markdown para HTML
     html_content = markdown.markdown(markdown_text)
-    html_with_style = f"""<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Material Completo</title>
-    <style>
-        body {{ font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }}
-        h1, h2, h3 {{ color: #2c3e50; }}
-        code {{ background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }}
-        pre {{ background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }}
-        blockquote {{ border-left: 4px solid #ccc; margin: 0; padding-left: 10px; color: #555; }}
-    </style>
-</head>
-<body>
-{html_content}
-</body>
-</html>"""
+    html_with_style = f"""  <!DOCTYPE html>
+                            <html lang="pt-BR">
+                            <head>
+                                <meta charset="UTF-8">
+                                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                <title>Material Completo</title>
+                                <style>
+                                    body {{ font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }}
+                                    h1, h2, h3 {{ color: #2c3e50; }}
+                                    code {{ background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }}
+                                    pre {{ background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }}
+                                    blockquote {{ border-left: 4px solid #ccc; margin: 0; padding-left: 10px; color: #555; }}
+                                </style>
+                            </head>
+                            <body>
+                            {html_content}
+                            </body>
+                            </html>"""
     
     # Salvar o HTML gerado
     html_path = os.path.join(output_folder, "material_completo.html")
@@ -99,7 +99,7 @@ iface = gr.Interface(
         gr.File(label="Download do PDF")
     ],
     title="Interface - Material de Estudos",
-    description="Interface para gerar material de estudo em Markdown e converter para PDF, utilizando xhtml2pdf (sem necessidade de instalações externas)."
+    #description="Interface para gerar material de estudo em Markdown e converter para PDF, utilizando xhtml2pdf (sem necessidade de instalações externas)."
 )
 
 iface.launch()
